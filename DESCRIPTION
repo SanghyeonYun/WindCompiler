@@ -1,10 +1,10 @@
 Package: WindCompiler
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: WindCompiler
+Version: 0.0.9
 Authors@R: 
     person("Sanghyeon", "Yun", , "yunsh823@knu.ac.kr", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Calculate wind component from wind data of NCEP.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
